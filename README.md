@@ -1,4 +1,4 @@
-# node-cli-template
+# Renamer
 
 ## Actions
 
